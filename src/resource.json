@@ -1,5 +1,16 @@
 [
   {
+    "name": "Bookmaker.XYZ",
+    "name_en": "Bookmaker.XYZ",
+    "desc": "The First Decentralized Betting Site",
+    "desc_en": "The First Decentralized Betting Site",
+    "url": "http://bookmaker.xyz/?utm_source=xdai.world&utm_medium=banner&utm_campaign=default",
+    "tag": "Prediction Markets",
+    "tag_en": "Prediction Markets",
+    "logo": "/images/BookmakerXYZ.png",
+    "image": "",
+  },
+  {
     "name": "Daohaus",
     "name_en": "Daohaus",
     "desc": "神奇的互联网社区的无码 DAO 平台",
